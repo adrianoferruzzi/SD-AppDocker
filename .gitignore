@@ -1,0 +1,4 @@
+# ignora o arquivo de senha do MySQL
+api/db/passdb.sh
+api/db/data
+node_modules

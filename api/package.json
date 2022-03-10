@@ -1,0 +1,24 @@
+{
+  "name": "agenda-api",
+  "version": "1.0.0",
+  "description": "Agenda",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon ./src/index"
+  },
+  "keywords": [
+    "Docker"
+  ],
+  "author": "Adriano Ferruzzi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodaemon": "0.0.5",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  }
+}
