@@ -56,6 +56,9 @@ docker exec -i mysql-container mysql -uroot -p1234 <  api/db/agenda.sql
 ```
 
 
+<img src="Docker.drawio.png" alt="App Architecture">
+
+
 <h3>Referências</h3>
 Introdução ao Docker em 22 minutos </br>
 https://www.youtube.com/watch?v=Kzcz-EVKBEQ </br>
